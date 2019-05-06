@@ -1,8 +1,5 @@
-#Github Assignment
-
-#MAGD 150
-
-###Brittany Smith
+# Github Assignment || MAGD 150
+### Brittany Smith
 
 * [Lab Assignment 1](https://github.com/smithy77/magd150/blob/master/s19magd150lab01_Smith.pde)
  The theme for this assignment was buildings, and we essentially created shapes in greyscale that were to follow the theme.
